@@ -24,4 +24,12 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+node_modules/
+.next/
+out/
+.env.local
+.env
+*.log
+.DS_Store
+dist/
 
